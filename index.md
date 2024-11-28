@@ -11,6 +11,18 @@
 ``` cpp
 std::cout << "So where has life brought you, finally to me... welcome" << std::endl;
 ```
-1. Added minimizing headers.
-2. Added img
-3. a line of co...code
+
+
+# Honey! Where   is   your    CheckList
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Become famous
+- [x] Contribute to open-source... oxygen comsumption
+
+
+- [x] Added minimizing headers.
+- [x] Added img
+- [x] a line of co...code
+- [x] checklistchecklist
