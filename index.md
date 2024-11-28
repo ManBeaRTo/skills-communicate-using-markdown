@@ -1,0 +1,6 @@
+# /
+## /
+### /
+#### /
+
+Added minimizing headers.
