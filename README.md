@@ -19,6 +19,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 -->
 
 ## Finish
+finish
 
 _Congratulations friend, you've completed this course!_
 
